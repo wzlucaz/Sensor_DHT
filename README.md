@@ -5,7 +5,7 @@ Passo a Passo do sensor DHT22.
 
 O DHT é um tipo de sensor usado principalmente em projetos de eletrônica e automação para medir temperatura e umidade do ar.
 
-# Existem dois modelos mais comuns:
+Existem dois modelos mais comuns:
 
 DHT11 → mais simples, barato, mas com menor precisão.
 
@@ -30,3 +30,7 @@ Estações meteorológicas caseiras.
 Controle de ventiladores, exaustores e climatizadores.
 
 Projetos de IoT (Internet das Coisas).
+
+---
+# Passo a Passo 
+
