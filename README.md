@@ -64,6 +64,4 @@ Projetos de IoT (Internet das Coisas).
 
 8° Passo: Admira o resultado ;)
 
-![IMG_8148](https://github.com/user-attachments/assets/994cd996-e9bf-48fd-8436-0a3ddc8d56d1)
-
-
+![IMG_8149](https://github.com/user-attachments/assets/745698e9-38c2-4353-b789-ebd87fd142b1)
