@@ -34,3 +34,11 @@ Projetos de IoT (Internet das Coisas).
 ---
 # Passo a Passo 
 
+1° Passo: Colocar o ESP32 na Breadboard.
+
+![IMG_8142](https://github.com/user-attachments/assets/06204a1c-8d86-4c67-9d75-b48fd1081c74)
+
+2° Passo: Colocar o DHT na nossa Breadboard.
+
+![IMG_8143](https://github.com/user-attachments/assets/1d3f1d9a-292e-4f30-b68c-b4c12f429c74)
+
